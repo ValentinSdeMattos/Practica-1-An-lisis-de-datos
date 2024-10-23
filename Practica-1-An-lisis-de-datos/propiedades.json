@@ -1,0 +1,16 @@
+{
+    "ciudades": [
+        {
+            "ubicacion": "Canelones",
+            "propiedades": []
+        },
+        {
+            "ubicacion": "Salto",
+            "propiedades": []
+        },
+        {
+            "ubicacion": "Colonia",
+            "propiedades": []
+        }
+    ]
+}
